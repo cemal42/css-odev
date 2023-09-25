@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 24px;
+    font-weight: 700;
+    color: #419197;
+}
+
+.title-h3 {
+    font-size: 30px;
+    color: #EF6262;
+}
+
+.img {
+    width: 250px;
+}
+
+.span-text {
+    color: #EF6224;
+}
